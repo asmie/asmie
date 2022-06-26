@@ -1,8 +1,10 @@
 ## Hi there!
-I am a software engineer from Poland who
+I am a software engineer from Poland!
 
 ### 🔭 Currently working on:
-
+[<img align="left" alt="stamp" src="https://img.shields.io/badge/Project-swpl-brightgreen" />](https://github.com/asmie/swpl)
+[<img align="left" alt="stamp" src="https://img.shields.io/badge/Project-stamp_suite-brightgreen" />](https://github.com/asmie/stamp-suite)
+<br />
 
 ### 😄 Working in following:
 <img align="left" alt="C" src="https://img.shields.io/badge/Lang-C-brightgreen" />
