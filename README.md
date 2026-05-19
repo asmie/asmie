@@ -1,10 +1,6 @@
 ## Hi there!
 I am a software engineer from Poland!
 
-### 🔭 About:
-<img align="left" alt="trophies" src="https://github-profile-trophy.vercel.app/?username=asmie" />
-<br />
-
 ### 😄 Working in following:
 <img align="left" alt="C" src="https://img.shields.io/badge/Lang-C-brightgreen" />
 <img align="left" alt="C++" src="https://img.shields.io/badge/Lang-C%2B%2B-brightgreen" />
@@ -18,6 +14,10 @@ I am a software engineer from Poland!
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/piotr-olszewski-8a239939/)
 [<img align="left" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />](https://stackoverflow.com/users/19419436/asmie)
 <br />
+
+### 🔭 Stats:
+<img align="left" alt="trophies" src="https://github-profile-trophy.vercel.app/?username=asmie" />
+<br /><br /><br />
 
 
 
