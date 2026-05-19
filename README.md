@@ -1,9 +1,8 @@
 ## Hi there!
 I am a software engineer from Poland!
 
-### 🔭 Currently working on:
-[<img align="left" alt="stamp" src="https://img.shields.io/badge/Project-swpl-brightgreen" />](https://github.com/asmie/swpl)
-[<img align="left" alt="stamp" src="https://img.shields.io/badge/Project-stamp_suite-brightgreen" />](https://github.com/asmie/stamp-suite)
+### 🔭 About:
+<img align="left" alt="trophies" src="https://github-profile-trophy.vercel.app/?username=asmie" />
 <br />
 
 ### 😄 Working in following:
