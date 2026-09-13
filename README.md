@@ -1,24 +1,26 @@
-## Hi there!
-I am a software engineer from Poland!
+<p align="center">
+  <img src="assets/header.svg" width="100%" alt="Piotr Olszewski / asmie — Engineering Manager &amp; Software Engineer" />
+</p>
 
-### 😄 Working in following:
-<img align="left" alt="C" src="https://img.shields.io/badge/Lang-C-brightgreen" />
-<img align="left" alt="C++" src="https://img.shields.io/badge/Lang-C%2B%2B-brightgreen" />
-<img align="left" alt="C#" src="https://img.shields.io/badge/Lang-C_Sharp-green" />
-<img align="left" alt="Rust" src="https://img.shields.io/badge/Lang-Rust-green" />
-<img align="left" alt="Python" src="https://img.shields.io/badge/Lang-Python-yellow" />
-<img align="left" alt="Go" src="https://img.shields.io/badge/Lang-Go-red" />
-<br>
+<p align="center">
+  <a href="https://asmie.pl">Website</a> &nbsp;·&nbsp;
+  <a href="https://techrunes.dev">TechRunes</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/piotr-olszewski-8a239939/">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="mailto:asmie@asmie.pl">Email</a>
+</p>
 
-### 📫 Reach me:
-[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/piotr-olszewski-8a239939/)
-[<img align="left" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />](https://stackoverflow.com/users/19419436/asmie)
-<br />
+I’m Piotr, a software engineer and engineering leader from Poland. I build software and lead teams, with roots in **embedded systems, networking, and security**.
 
-### 🔭 Stats:
-<img align="left" alt="trophies" src="https://github-profile-trophy.vercel.app/?username=asmie" />
-<br /><br /><br />
+Currently working on **agentic engineering, AI, and blockchain** at Eiger, and running **TechRunes**, my software and consulting business.
 
+**My toolkit** &nbsp; `Rust` · `C` · `C++` · `Python` · `C#` · `Go`
 
+### Selected work
 
+| Project | What it does |
+| :--- | :--- |
+| **[stamp-suite](https://github.com/asmie/stamp-suite)** · Rust | Measure network latency and packet loss with STAMP. |
+| **[dlep](https://github.com/asmie/dlep)** · Rust | Exchange link information between routers and radio modems. |
+| **[roll](https://github.com/asmie/roll)** · C++23 | Generate binary deltas using rolling hashes. |
 
+<sub>Beyond the editor: astronomy, genealogy, geocaching, and strategy games.</sub>
