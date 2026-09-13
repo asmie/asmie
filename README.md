@@ -9,7 +9,7 @@
   <a href="mailto:asmie@asmie.pl">Email</a>
 </p>
 
-I’m a software engineer from Poland. I like digging into difficult problems, figuring out the algorithms, and making things work. My background is in systems, networking, and security, with a growing interest in machine learning.
+I’m a software engineer from Poland. I like digging into difficult problems, figuring out the algorithms, and making things work. My background is in systems, networking, and security, with a growing interest in machine learning. Many hands-on experience in many languages and technologies. AI enthusiast.
 
 I work at Equilibrium and run TechRunes, my own software and consulting company.
 
