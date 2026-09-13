@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="210" viewBox="0 0 840 210" role="img" aria-labelledby="title desc">
+  <title id="title">Piotr Olszewski / asmie</title>
+  <desc id="desc">Engineering Manager and Software Engineer. A dark green terminal-inspired banner with a connected network motif.</desc>
+  <defs>
+    <linearGradient id="background" x2="1" y2="1">
+      <stop stop-color="#0d1912"/>
+      <stop offset="1" stop-color="#070b09"/>
+    </linearGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28" fill="none" stroke="#70f39b" stroke-opacity=".07"/>
+    </pattern>
+    <clipPath id="rounded"><rect width="840" height="210" rx="12"/></clipPath>
+  </defs>
+  <g clip-path="url(#rounded)">
+    <rect width="840" height="210" fill="url(#background)"/>
+    <rect x="575" width="265" height="210" fill="url(#grid)"/>
+    <path d="M0 0H840" stroke="#70f39b" stroke-width="4"/>
+    <g fill="none" stroke="#70f39b" stroke-width="1.5" stroke-opacity=".28">
+      <path d="M643 68 705 42 776 83 749 150 677 172 643 68 749 150 705 42"/>
+      <path d="m677 172 99-89M643 68l133 15"/>
+    </g>
+    <g fill="#70f39b">
+      <circle cx="643" cy="68" r="4"/>
+      <circle cx="705" cy="42" r="3"/>
+      <circle cx="776" cy="83" r="4"/>
+      <circle cx="749" cy="150" r="5"/>
+      <circle cx="677" cy="172" r="3"/>
+    </g>
+    <g font-family="ui-monospace, 'Cascadia Code', Consolas, monospace">
+      <text x="36" y="47" fill="#70f39b" font-size="17">&gt;_ asmie</text>
+      <text x="36" y="178" fill="#91a397" font-size="13" letter-spacing="1.4">SYSTEMS / SECURITY / AI</text>
+    </g>
+    <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif">
+      <text x="34" y="105" fill="#e0e9e3" font-size="42" font-weight="650" letter-spacing="-1.3">Piotr Olszewski</text>
+      <text x="36" y="139" fill="#adbbb0" font-size="19">Engineering Manager &amp; Software Engineer</text>
+    </g>
+  </g>
+</svg>
