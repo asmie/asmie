@@ -1,38 +1,53 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="840" height="210" viewBox="0 0 840 210" role="img" aria-labelledby="title desc">
   <title id="title">Piotr Olszewski / asmie</title>
-  <desc id="desc">Engineering Manager and Software Engineer. A dark green terminal-inspired banner with a connected network motif.</desc>
+  <desc id="desc">Software engineer. Algorithms, systems, and machine learning. A highlighted route through a graph on a dark green background.</desc>
   <defs>
     <linearGradient id="background" x2="1" y2="1">
-      <stop stop-color="#0d1912"/>
-      <stop offset="1" stop-color="#070b09"/>
+      <stop stop-color="#0b1511"/>
+      <stop offset="1" stop-color="#0d1c20"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop stop-color="#70f3c2" stop-opacity=".12"/>
+      <stop offset="1" stop-color="#70f3c2" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="route" x1="0" y1="1" x2="1" y2="0">
+      <stop stop-color="#70f39b"/>
+      <stop offset="1" stop-color="#8bd5ef"/>
     </linearGradient>
     <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
-      <path d="M28 0H0V28" fill="none" stroke="#70f39b" stroke-opacity=".07"/>
+      <circle cx="14" cy="14" r="1" fill="#8fbdad" fill-opacity=".16"/>
     </pattern>
     <clipPath id="rounded"><rect width="840" height="210" rx="12"/></clipPath>
   </defs>
   <g clip-path="url(#rounded)">
     <rect width="840" height="210" fill="url(#background)"/>
+    <ellipse cx="704" cy="105" rx="220" ry="170" fill="url(#glow)"/>
     <rect x="575" width="265" height="210" fill="url(#grid)"/>
-    <path d="M0 0H840" stroke="#70f39b" stroke-width="4"/>
-    <g fill="none" stroke="#70f39b" stroke-width="1.5" stroke-opacity=".28">
-      <path d="M643 68 705 42 776 83 749 150 677 172 643 68 749 150 705 42"/>
-      <path d="m677 172 99-89M643 68l133 15"/>
+    <rect x=".5" y=".5" width="839" height="209" rx="12" fill="none" stroke="#29443b"/>
+    <g fill="none" stroke="#649b8b" stroke-width="1.5" stroke-opacity=".35">
+      <path d="M602 149 641 61 701 104 735 40 786 91 759 165 701 104 602 149 665 182 759 165"/>
+      <path d="m641 61 94-21M701 104l85-13M665 182l36-78"/>
     </g>
-    <g fill="#70f39b">
-      <circle cx="643" cy="68" r="4"/>
-      <circle cx="705" cy="42" r="3"/>
-      <circle cx="776" cy="83" r="4"/>
-      <circle cx="749" cy="150" r="5"/>
-      <circle cx="677" cy="172" r="3"/>
+    <path d="m602 149 99-45 85-13" fill="none" stroke="url(#route)" stroke-width="2.5"/>
+    <g fill="#142a25" stroke="#649b8b" stroke-width="1.5">
+      <circle cx="641" cy="61" r="4"/>
+      <circle cx="735" cy="40" r="4"/>
+      <circle cx="759" cy="165" r="4"/>
+      <circle cx="665" cy="182" r="4"/>
     </g>
+    <g fill="#70f3b0">
+      <circle cx="602" cy="149" r="5"/>
+      <circle cx="701" cy="104" r="5"/>
+    </g>
+    <circle cx="786" cy="91" r="5" fill="#8bd5ef"/>
+    <circle cx="786" cy="91" r="12" fill="none" stroke="#8bd5ef" stroke-opacity=".35"/>
     <g font-family="ui-monospace, 'Cascadia Code', Consolas, monospace">
       <text x="36" y="47" fill="#70f39b" font-size="17">&gt;_ asmie</text>
-      <text x="36" y="178" fill="#91a397" font-size="13" letter-spacing="1.4">SYSTEMS / SECURITY / AI</text>
+      <text x="36" y="178" fill="#9dbfb0" font-size="15">Algorithms · Systems · Machine learning</text>
     </g>
     <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif">
-      <text x="34" y="105" fill="#e0e9e3" font-size="42" font-weight="650" letter-spacing="-1.3">Piotr Olszewski</text>
-      <text x="36" y="139" fill="#adbbb0" font-size="19">Engineering Manager &amp; Software Engineer</text>
+      <text x="34" y="105" fill="#e0e9e3" font-size="42" font-weight="400" letter-spacing="-1.3">Piotr Olszewski</text>
+      <text x="36" y="139" fill="#adbbb0" font-size="19">Software engineer · Poland</text>
     </g>
   </g>
 </svg>

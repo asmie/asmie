@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header.svg" width="100%" alt="Piotr Olszewski / asmie — Engineering Manager &amp; Software Engineer" />
+  <img src="assets/header.svg" width="100%" alt="Piotr Olszewski / asmie — Software engineer. Algorithms, systems, and machine learning." />
 </p>
 
 <p align="center">
@@ -9,18 +9,16 @@
   <a href="mailto:asmie@asmie.pl">Email</a>
 </p>
 
-I’m Piotr, a software engineer and engineering leader from Poland. I build software and lead teams, with roots in **embedded systems, networking, and security**.
+I’m a software engineer from Poland. I like digging into difficult problems, figuring out the algorithms, and making things work. My background is in systems, networking, and security, with a growing interest in machine learning.
 
-Currently working on **agentic engineering, AI, and blockchain** at Eiger, and running **TechRunes**, my software and consulting business.
+I work at Equilibrium and run TechRunes, my own software and consulting company.
 
-**My toolkit** &nbsp; `Rust` · `C` · `C++` · `Python` · `C#` · `Go`
+<p align="center">
+  <code>Rust</code> &nbsp; <code>C</code> &nbsp; <code>C++</code> &nbsp; <code>Python</code> &nbsp; <code>C#</code> &nbsp; <code>Go</code>
+</p>
 
-### Selected work
+---
 
-| Project | What it does |
-| :--- | :--- |
-| **[stamp-suite](https://github.com/asmie/stamp-suite)** · Rust | Measure network latency and packet loss with STAMP. |
-| **[dlep](https://github.com/asmie/dlep)** · Rust | Exchange link information between routers and radio modems. |
-| **[roll](https://github.com/asmie/roll)** · C++23 | Generate binary deltas using rolling hashes. |
-
-<sub>Beyond the editor: astronomy, genealogy, geocaching, and strategy games.</sub>
+<p align="center">
+  <sub>Away from the keyboard: astronomy, genealogy, geocaching, and strategy games.</sub>
+</p>
